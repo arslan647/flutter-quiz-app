@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770514797127",
+    "project_id": "quiz-app-dbe51",
+    "storage_bucket": "quiz-app-dbe51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770514797127:android:48d51e7c6cf6f53eee2762",
+        "android_client_info": {
+          "package_name": "com.muhammadarslan.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770514797127-ifg3fi2qb3lqdp41b117kfqmt7tivlem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJogx1XYK1PkL_nUXG1e8h0Lw15lG6_lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770514797127-ifg3fi2qb3lqdp41b117kfqmt7tivlem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
